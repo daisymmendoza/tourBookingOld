@@ -1,0 +1,29 @@
+.navbar {
+    padding: 0;
+}
+
+.navbar-brand {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.popSection{
+    width: 80%;
+    margin: auto;
+}
+
+.card-deck {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 15px;
+}
+
+.card {
+    width: 100%;
+}
+
+.card a {
+    text-decoration: none;
+    color: inherit;
+}
